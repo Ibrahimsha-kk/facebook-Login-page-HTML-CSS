@@ -1,0 +1,319 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica neue Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+   
+}
+.logo-text {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica neue, Helvetica,Arial, sans-serif;
+    margin-left: 170px;  
+    
+}
+.login-label{
+    color: white;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 110px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: white;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.forgotten:hover{
+    text-decoration: underline  ;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: #3b5998;
+}
+.left-section{
+    width: 45%;
+    float: left;
+    padding-left: 170px;
+    padding-top: 15px;
+}
+.right-section{
+    width: 38%;
+    float: left;
+
+
+}
+.main-body{
+    background:   linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 580px;   
+}
+.image{
+    width: 500px;
+    height: 220px;
+}
+.fb-para{
+    font-weight: bold;
+    font-size: 20px;
+    color: #29487d;
+}
+.fb-para2{
+    height: 14px;
+    font-weight: bold;
+    font-size: 33px;
+    margin-top: 21px;
+}
+.fb-para3{
+    margin-top: 32px;
+    height: 10px;
+    margin-bottom: 32px
+}
+.signup-form{
+    margin-top: 21px;
+    height: 10px;
+}
+.first-name{
+    height: 25px;
+    border-radius: 5px;
+    border-color: white;
+    width: 164px;
+    margin-bottom: 10px;
+}
+.surname{
+    height: 25px;
+    border-radius: 5px;
+    border-color: white;
+    width: 164px;
+    margin-bottom: 10px;
+}
+.mobile-email{
+    width: 340px;
+    height: 25px;
+    border-radius: 5px;
+    border-color: white;
+    margin-bottom: 10px;
+}
+.passwords{
+    width: 340px;
+    height: 25px;
+    border-radius: 5px;
+    border-color: white;
+    margin-bottom: 10px;
+}
+.re-password{
+    width: 340px;
+    height: 25px;
+    border-radius: 5px;
+    border-color: white;
+    margin-bottom: 5px;
+}
+.birthday-div{
+    height: 0;
+    margin-top: 10px;
+    
+}
+.birthday{
+    height: 13px;
+    color: #695959;
+   
+}
+.dob{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration:none;
+    color: #3b82df;
+    margin-left: 10px;
+}
+.dob:hover{
+    color: #96787c;
+
+}
+.gender-div{
+    margin-top: 70px;
+    height: 0;
+    
+
+}
+.gender-form{
+    height: 5px;
+    color: #695959;
+    padding-top: 0px;
+}
+.gender-sex{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration:none;
+    color: #3b82df;
+    margin-left: 10px;
+}
+.gender-sex:hover{
+    color: #96787c;
+    
+
+}
+.fb-para4{
+    font-size: 10px;
+    margin-top: 60px;
+
+
+}
+.sign-up{
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    color: white;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 19px;
+    height: 40px;
+    width: 200px;
+    border: 1px;
+    margin-top: 7px;
+
+}
+.fb-para5{
+    font-size: 15px;
+    height: 10px;
+    margin-top: 23px;
+}
+.create-a-page{
+    font-size: 13px;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+.create-a-page:hover{
+    text-decoration:underline;
+}
+.terms{
+    text-decoration: none;
+}
+.terms:hover{
+    text-decoration: underline;
+}
+.data-policy{
+    text-decoration: none;
+}
+.data-policy:hover{
+    text-decoration: underline;
+}
+.cookies-policy{
+    text-decoration: none;
+}
+.cookies-policy:hover{
+    text-decoration: underline;
+}
+.footer{
+    padding-bottom: 26px;
+    margin-left: 25px;
+    font-size: 14px;
+    margin-top: 10px;
+    
+}
+.hindi{
+    text-decoration: none;
+    margin-left: 13px;
+}
+.hindi:hover{
+    text-decoration: underline;
+    
+}
+.l{
+    text-decoration: none;
+    margin-left:  13px; 
+}
+.l:hover{
+    text-decoration: underline;
+    
+}
+.urudu{
+    text-decoration: none;
+    margin-left: 13px;
+}
+.urudu:hover{
+    text-decoration: underline;
+    
+}
+.tamil{
+    text-decoration: none;
+    margin-left:  13px; 
+}
+.tamil:hover{
+    text-decoration: underline;
+    
+}
+.l1{
+    text-decoration: none;
+    margin-left:  13px; 
+}
+.l1:hover{
+    text-decoration: underline;
+    
+}
+.maratti{
+    text-decoration: none;
+    margin-left:  13px;
+}
+.maratti:hover{
+    text-decoration: underline;
+    
+}
+.l2{
+    text-decoration: none;
+    margin-left:  13px; 
+}
+.l2:hover{
+    text-decoration: underline;
+    
+}
+.gujarati{
+    text-decoration: none;
+    margin-left:  13px; 
+}
+.gujarati:hover{
+    text-decoration: underline;
+    
+}
+.l3{
+    text-decoration: none;
+    margin-left:  13px; 
+}
+.l3:hover{
+    text-decoration: underline;
+    
+}
+.malayalam{
+    text-decoration: none;
+    margin-left:  13px; 
+}
+.malayalam:hover{
+    text-decoration: underline;
+    
+}
